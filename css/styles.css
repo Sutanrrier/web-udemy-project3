@@ -69,10 +69,50 @@
     color: #8f8f8f;
 }
 
+
+/*Testimonial Section*/
+#testimonials {
+    color: #fff;
+    text-align: center;
+    background-color: #ef8172;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 1.2rem;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 1.2rem 1.2rem 4rem;
+}
+
 /*Global Tags*/
 h1 {
     font-size: 3.5rem;
     line-height: 1.5;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
     font-weight: bold;
 }
 
